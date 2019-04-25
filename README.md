@@ -1,4 +1,4 @@
-#H Some Great Wordlist
+** Some Great Wordlist **
 
 This is a small but useful collection of great wordlist that can cut down on pentesting by vectorizing pasword generation to crack any hash. 
 -
