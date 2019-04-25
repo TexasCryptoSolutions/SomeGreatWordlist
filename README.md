@@ -4,9 +4,9 @@ This is a small but useful collection of great wordlist that can cut down on pen
 
 
 A great way to use these is with hashcat in a Hybrid attack 
->$./hashcat64.bin -a 6 -m 15200 example.dict ?d?d?d?d
+>$./hashcat64.bin -a 6 -m 15200 example.txt ?d?d?d?d
 
->$./hashcat64.bin -a 3 -m 15200 example.dict 
+>$./hashcat64.bin -a 3 -m 15200 example.txt 
 
 
 
