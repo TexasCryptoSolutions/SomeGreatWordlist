@@ -1,7 +1,7 @@
-#**Some Great Wordlist**
+# Some Great Wordlist
 
-This is a small but useful collection of great wordlist that can cut down on pentesting by vectorizing pasword generation to crack any hash. 
--
+##This is a small but useful collection of great wordlist that can cut down on pentesting by vectorizing pasword generation to crack any hash. 
+
 
 A great way to use these is with hashcat in a Hybrid attack 
 >$./hashcat64.bin -a 6 -m 15200 example.dict ?d?d?d?d
