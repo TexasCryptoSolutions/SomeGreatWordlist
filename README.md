@@ -1,4 +1,4 @@
-#Some Great Wordlist
+#H Some Great Wordlist
 
 This is a small but useful collection of great wordlist that can cut down on pentesting by vectorizing pasword generation to crack any hash. 
 -
@@ -10,7 +10,7 @@ A great way to use these is with hashcat in a Hybrid attack
 
 
 
-List includes: -
+List includes: 
 1. 2Digit_Combination : for quick 2 digit combinations without having to take CPU usage to generate in realtime.
 2. 4_Letter_Words : A set of Filtered out words whose length is only 4
 3. 7_Letter_Words : A set of Filtered out words whose length is only 7
