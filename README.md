@@ -2,14 +2,16 @@
 
 This is a small but useful collection of great wordlist that can cut down on pentesting by vectorizing pasword generation to crack any hash. 
 
-
+Example
+=======
 A great way to use these is with hashcat in a Hybrid attack 
 >$./hashcat64.bin -a 6 -m 15200 example.txt ?d?d?d?d
 
 >$./hashcat64.bin -a 3 -m 15200 example.txt 
 
 
-
+Files
+=====
 List includes: 
 1. 2Digit_Combination : for quick 2 digit combinations without having to take CPU usage to generate in realtime.
 2. 4_Letter_Words : A set of Filtered out words whose length is only 4
