@@ -12,11 +12,11 @@ List includes: -
 
 >2Digit_Combination : for quick 2 digit combinations without having to take CPU usage to generate in realtime.
 
-4_Letter_Words : A set of Filtered out words whose length is only 4
-7_Letter_Words : A set of Filtered out words whose length is only 7
-Actions_List :  List of common actions in the english alphabet.
-Animals : List of animals in planet earth.
-Common_Tech_Objects : List of common technological objects/actions 
+>4_Letter_Words : A set of Filtered out words whose length is only 4
+>7_Letter_Words : A set of Filtered out words whose length is only 7
+>Actions_List :  List of common actions in the english alphabet.
+>Animals : List of animals in planet earth.
+>Common_Tech_Objects : List of common technological objects/actions 
 
 
 
